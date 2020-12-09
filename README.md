@@ -15,14 +15,6 @@ My Environment settings are below:
 * pandas = 1.1.3
 * opencv = 4.4.0
 
-In this work, I used yolov4 framework from [AlexeyAB/darknet](https://github.com/AlexeyAB/darknet), so you should also followed the instruction of AlexeyAB's darknet:
-```
-Windows or Linux
-CMake >= 3.12
-CUDA >= 10.0
-OpenCV >= 2.4
-cuDNN >= 7.0
-```
 ## Reproducing Submission
 To Reproduct the submission, do the folowed steps
 1. [Framework Download and Setting](#Framework-Download-and-Setting)
